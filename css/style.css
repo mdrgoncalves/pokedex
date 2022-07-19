@@ -23,10 +23,10 @@ main {
 .pokemon-data {
     position: absolute;
     font-weight: 500;
-    font-size: clamp(8px, 5vw, 18.5px);
+    font-size: clamp(8px, 5vw, 18px);
     color: rgb(92, 184, 17);
     top: 55.2%;
-    right: 29%;
+    right: 28.6%;
 }
 
 .pokemon-name {
