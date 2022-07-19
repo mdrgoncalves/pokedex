@@ -3,4 +3,4 @@
 <p>A simple Pokédex project consuming PokeAPI.</p>
 
 <p>See Here:</p>
-<p align="center"><a href="https://pokedex-mdrgoncalves.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=106303&style=for-the-badge&logo=ghost"/></a></p>
+<p align="center"><a href="https://pokedex-mdrgoncalves.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?label=&message=Pokédex&color=106303&style=for-the-badge&logo=ghost"/></a></p>
